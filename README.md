@@ -1,2 +1,2 @@
-# HIgherPurpose
+# HigherPurpose
 Mobile Grant Application
